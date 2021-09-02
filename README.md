@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @juimemorial
+- 👀 I’m interested in data science & programming
+- 🌱 I’m currently learning python
